@@ -12,15 +12,23 @@
 
 1. __Fork the repository__
 
-1.  Clone the repo to your local machine
+2.  Clone the repo to your local machine
   
-2.  Install dependencies
+3.  Install dependencies
 
   ```bash
+  brew update
+  
+  brew install ruby
+  
+  sudo gem install sass
+  
   npm install
   
   bower install
   ```
+
+4. Run `grunt serve`
   
 Given an HTML file `index.html` with article content in it, make it look beautiful.
 
