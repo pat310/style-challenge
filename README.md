@@ -1,5 +1,15 @@
 # Style Challenge
 
+Given an HTML file `index.html` with article content in it, make it look beautiful.
+
+Rules:
+
+- Do not change the markup (HTML)
+- Only modify the `main.scss` file.
+- Work independently for 20 minutes
+- Push your work to your forked repo
+- Wait for instructions
+
 ## Install
 
 1. __Fork the repository__
@@ -20,13 +30,5 @@
 
 4. Run `grunt serve`
   
-Given an HTML file `index.html` with article content in it, make it look beautiful.
 
-Rules:
-
-- Do not change the markup (HTML)
-- Only modify the `main.scss` file.
-- Work independently for 20 minutes
-- Push your work to your forked repo
-- Wait for instructions
 
