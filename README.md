@@ -23,6 +23,7 @@ Rules:
   brew update
   brew install ruby
   sudo gem install sass
+  npm install -g grunt-cli
   
   npm install
   bower install
