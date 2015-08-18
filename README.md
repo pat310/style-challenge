@@ -6,7 +6,7 @@ Rules:
 
 - Do not change the markup (HTML)
 - Only modify the `main.scss` file.
-- Work independently for 20 minutes
+- Work independently for 25 minutes
 - Push your work to your forked repo
 - Wait for instructions
 
