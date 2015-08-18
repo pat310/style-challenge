@@ -4,3 +4,38 @@
 @import 'reset';
 
 // Write your code below:
+
+body{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+}
+img{
+	width: 49%;
+	display: block;
+	float: left;
+}
+h1{
+	font-size:40px;
+	padding: 5px;
+	width: 49%;
+	display: block;
+	float: right;
+}
+h2{
+	font-size:30px;
+	padding: 5px;
+	width: 49%;
+	display: block;
+	float: right;
+}
+strong{
+	font-weight: bold;
+}
+p{
+	font-size:20px;
+	padding: 5px;
+	width: 49%;
+	display: block-inline;
+	float: right;
+}
