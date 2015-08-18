@@ -1,12 +1,4 @@
-# Challenge: Article
-
-*Difficulty: Medium*
-
-| Cohort | Date       |
-|--------|------------|
-| Nov-14 | 2014-02-13 |
-
----
+# Style Challenge
 
 ## Install
 
