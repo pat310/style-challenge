@@ -17,14 +17,12 @@
 3.  Install dependencies
 
   ```bash
+  // If not already installed
   brew update
-  
   brew install ruby
-  
   sudo gem install sass
   
   npm install
-  
   bower install
   ```
 
